@@ -1,0 +1,18 @@
+Single App License
+
+The single app license allows the use of the purchased item in a project for either personal
+or commercial uses, without the payment of any further fees or charges.
+
+The Single App License gives you the right to use the purchased items within 1 project of your own.
+
+You cannot offer the item up for resale either on its own or as part of a project.
+
+Items purchased under a single app license must not be redistributed or resold “as-is” or as part
+of any other collection of files.
+
+What you can do:
+1. You can integrate the component in 1 APP.
+2. You can be distribute it only as a binary only (You cannot distribute Source Code).
+3. Commercial use is allowed.
+4. You can customize the Source Code.
+*/
